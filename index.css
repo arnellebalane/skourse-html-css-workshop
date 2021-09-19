@@ -1,0 +1,17 @@
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+h1 {
+  font-size: 48px;
+  line-height: 58px;
+  color: #4b5563;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 42px;
+  color: #4b5563;
+}
