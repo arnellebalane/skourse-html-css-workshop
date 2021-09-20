@@ -42,6 +42,9 @@ body {
   font-weight: bold;
   text-decoration: none;
   color: #1f2937;
+
+  transition-property: color;
+  transition-duration: 200ms;
 }
 
 .site-logo:hover,
@@ -56,6 +59,9 @@ body {
   font-weight: 500;
   text-decoration: none;
   color: #1f2937;
+
+  transition-property: color;
+  transition-duration: 200ms;
 }
 
 .site-nav a:hover,
@@ -123,6 +129,9 @@ body {
   font-weight: bold;
   text-decoration: none;
   color: #ffffff;
+
+  transition-property: color;
+  transition-duration: 200ms;
 }
 
 .banner-attribution a:hover,
@@ -148,6 +157,9 @@ body {
 .section a {
   font-weight: bold;
   color: #7c3aed;
+
+  transition-property: color;
+  transition-duration: 200ms;
 }
 
 .section a:hover,
@@ -234,6 +246,9 @@ body {
   text-decoration: none;
   color: #7c3aed;
   background-color: #ffffff;
+
+  transition-property: background-color, color;
+  transition-duration: 200ms, 200ms;
 }
 
 .contact-section .email-button:hover,
@@ -264,6 +279,9 @@ body {
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: center;
+
+  transition-property: background-color;
+  transition-duration: 200ms;
 }
 
 .social-links a:not(:last-child) {
