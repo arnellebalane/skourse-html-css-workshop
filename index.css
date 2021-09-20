@@ -44,6 +44,11 @@ body {
   color: #1f2937;
 }
 
+.site-logo:hover,
+.site-logo:focus {
+  color: #f59e0b;
+}
+
 .site-nav a {
   margin-left: 42px;
 
@@ -51,6 +56,11 @@ body {
   font-weight: 500;
   text-decoration: none;
   color: #1f2937;
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  color: #f59e0b;
 }
 
 .intro-section {
@@ -115,6 +125,11 @@ body {
   color: #ffffff;
 }
 
+.banner-attribution a:hover,
+.banner-attribution a:focus {
+  color: #f59e0b;
+}
+
 .section {
   max-width: 760px;
   padding: 150px 24px;
@@ -135,16 +150,32 @@ body {
   color: #7c3aed;
 }
 
+.section a:hover,
+.section a:focus {
+  color: #f59e0b;
+}
+
 .about-section h2 {
   display: none;
 }
 
+.about-section p:first-of-type {
+  margin-top: 0;
+}
+
+.about-section p:last-of-type {
+  margin-bottom: 0;
+}
+
 .work {
   padding: 32px 42px;
-  margin-bottom: 32px;
   border-radius: 5px;
 
   background-color: #f9fafb;
+}
+
+.work:not(:last-child) {
+  margin-bottom: 32px;
 }
 
 .work-title {
@@ -163,7 +194,7 @@ body {
   color: #4b5563;
 }
 
-.work-description {
+.work p:last-child {
   margin-bottom: 0;
 }
 
@@ -205,6 +236,12 @@ body {
   background-color: #ffffff;
 }
 
+.contact-section .email-button:hover,
+.contact-section .email-button:focus {
+  color: #ffffff;
+  background-color: #f59e0b;
+}
+
 .social-links {
   width: 32px;
   padding: 8px;
@@ -220,13 +257,22 @@ body {
   display: block;
   width: 32px;
   height: 32px;
-  margin-bottom: 8px;
+  border-radius: 5px;
 
   font-size: 0;
 
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: center;
+}
+
+.social-links a:not(:last-child) {
+  margin-bottom: 8px;
+}
+
+.social-links a:hover,
+.social-links a:focus {
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .social-links .facebook {
