@@ -98,6 +98,10 @@ body {
 .intro-section .highlight-name {
   display: block;
   color: #7c3aed;
+
+  animation-name: change-colors;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
 }
 
 .banner-image {
@@ -316,4 +320,18 @@ body {
   margin: 0;
 
   color: #4b5563;
+}
+
+@keyframes change-colors {
+  0% {
+    color: #7c3aed;
+  }
+
+  50% {
+    color: #f59e0b;
+  }
+
+  100% {
+    color: #7c3aed;
+  }
 }
