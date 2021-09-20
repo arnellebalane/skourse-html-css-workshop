@@ -40,6 +40,11 @@ body {
   color: #4b5563;
 }
 
+.section a {
+  font-weight: bold;
+  color: #7c3aed;
+}
+
 .about-section h2 {
   display: none;
 }
@@ -104,6 +109,7 @@ body {
   border-radius: 5px;
 
   font-weight: bold;
+  text-decoration: none;
   color: #7c3aed;
   background-color: #ffffff;
 }
