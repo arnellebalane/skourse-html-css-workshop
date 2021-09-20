@@ -15,6 +15,11 @@ h1 {
   color: #4b5563;
 }
 
+h1 span {
+  display: block;
+  color: #7c3aed;
+}
+
 h2 {
   margin-bottom: 42px;
 
@@ -26,6 +31,7 @@ h2 {
 
 h3 {
   font-size: 18px;
+  font-weight: normal;
   line-height: 28px;
 }
 
