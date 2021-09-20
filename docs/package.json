@@ -1,0 +1,19 @@
+{
+  "name": "skourse-html-css-workshop-guide",
+  "version": "0.0.1",
+  "description": "Written guide for Skourse Academy's HTML and CSS Workshop",
+  "main": "index.js",
+  "authors": {
+    "name": "Arnelle Balane",
+    "email": "arnellebalane@gmail.com"
+  },
+  "repository": "/skourse-html-css-workshop-guide",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
