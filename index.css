@@ -4,6 +4,11 @@ body {
   font-family: 'Inter', sans-serif;
   font-size: 18px;
   line-height: 28px;
+
+  background-image: url('images/gradient-bg.png');
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-attachment: fixed;
 }
 
 .intro-section {
@@ -12,6 +17,13 @@ body {
   margin: 150px auto;
 
   text-align: center;
+}
+
+.intro-section img {
+  width: 130px;
+  height: 130px;
+  border: 8px solid #ede9fe;
+  border-radius: 50%;
 }
 
 .intro-section h1 {
@@ -23,6 +35,14 @@ body {
 .intro-section .highlight-name {
   display: block;
   color: #7c3aed;
+}
+
+.banner-image {
+  height: 720px;
+
+  background-image: url('images/banner.jpg');
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .section {
