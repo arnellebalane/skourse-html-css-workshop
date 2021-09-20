@@ -12,10 +12,19 @@ body {
   background-image: url('images/gradient-bg.png');
   background-repeat: no-repeat;
   background-position-x: right;
+  background-position-y: 86px;
   background-attachment: fixed;
 }
 
 .site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+
+  background-color: #ffffff;
+}
+
+.site-header-contents {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -78,9 +87,32 @@ body {
 .banner-image {
   height: 720px;
 
+  position: relative;
+
   background-image: url('images/banner.jpg');
   background-size: cover;
   background-attachment: fixed;
+}
+
+.banner-attribution {
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 0;
+
+  position: absolute;
+  left: 16px;
+  bottom: 0;
+
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+  background-color: #1f2937;
+}
+
+.banner-attribution a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #ffffff;
 }
 
 .section {
@@ -173,8 +205,44 @@ body {
   background-color: #ffffff;
 }
 
+.social-links {
+  width: 32px;
+  padding: 8px;
+
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+
+  background-color: #1f2937;
+}
+
+.social-links a {
+  display: block;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 8px;
+
+  font-size: 0;
+
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.social-links .facebook {
+  background-image: url('images/icon-facebook.svg');
+}
+
+.social-links .twitter {
+  background-image: url('images/icon-twitter.svg');
+}
+
+.social-links .instagram {
+  background-image: url('images/icon-instagram.svg');
+}
+
 .site-footer {
-  padding: 42px 24px;
+  padding: 32px 24px;
 
   text-align: center;
   background-color: #f9fafb;
