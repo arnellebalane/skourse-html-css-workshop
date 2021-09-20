@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
 
@@ -11,24 +15,58 @@ body {
   background-attachment: fixed;
 }
 
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  max-width: 1000px;
+  height: 86px;
+  padding: 0 24px;
+  margin: 0 auto;
+}
+
+.site-logo {
+  margin: 0;
+
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #1f2937;
+}
+
+.site-nav a {
+  margin-left: 42px;
+
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  color: #1f2937;
+}
+
 .intro-section {
+  display: flex;
+  align-items: center;
+
   max-width: 1000px;
   padding: 0 24px;
   margin: 150px auto;
-
-  text-align: center;
+  margin-bottom: 0;
 }
 
 .intro-section img {
-  width: 130px;
-  height: 130px;
+  width: 250;
+  height: 250;
   border: 8px solid #ede9fe;
   border-radius: 50%;
+  margin-right: 50px;
 }
 
 .intro-section h1 {
-  font-size: 48px;
-  line-height: 58px;
+  margin: 0;
+
+  font-size: 40px;
+  line-height: 48px;
   color: #4b5563;
 }
 
@@ -47,8 +85,8 @@ body {
 
 .section {
   max-width: 760px;
-  padding: 0 24px;
-  margin: 150px auto;
+  padding: 150px 24px;
+  margin: 0 auto;
 }
 
 .section h2 {
@@ -101,6 +139,7 @@ body {
   max-width: 712px;
   padding-top: 56px;
   padding-bottom: 56px;
+  margin-bottom: 150px;
   border-radius: 5px;
 
   text-align: center;
