@@ -40,7 +40,9 @@ module.exports = {
           title: 'Getting started',
           collapsable: false,
           children: [
-            ''
+            '',
+            'setup-local',
+            'setup-codesandbox'
           ]
         }
       ],
