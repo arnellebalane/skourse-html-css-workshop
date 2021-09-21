@@ -1,3 +1,4 @@
+const path = require('path');
 const { description } = require('../../package')
 
 module.exports = {
@@ -9,6 +10,11 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
+
+  /**
+   * Ref: https://vuepress.vuejs.org/config/#dest
+   */
+  dest: path.resolve(__dirname, '../../dist'),
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
