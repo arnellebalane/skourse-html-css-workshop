@@ -6,7 +6,7 @@ If you don't want to install any applications into your computer for now, you ca
 
 To get started with CodeSandbox, go to [codesandbox.io](https://codesandbox.io/) and create an account for free. You may sign in using your Google or GitHub account.
 
-## Create a sandbox
+## Create a Sandbox
 
 Once logged in, click on the "Create Sandbox" button to create a new CodeSandbox project.
 

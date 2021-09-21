@@ -6,5 +6,5 @@ To get the most out of this workshop, it is recommended to code along. However, 
 
 Get started by choosing how we want to code along to this workshop:
 
-1. [Using your local environment](setup-local.md)
+1. [Using our Local Environment](setup-local.md)
 2. [Using CodeSandbox](setup-codesandbox.md)

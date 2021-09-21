@@ -45,7 +45,12 @@ module.exports = {
         title: 'Getting started',
         path: '/getting-started/',
         collapsable: false,
-        children: ['/getting-started/', '/getting-started/setup-local', '/getting-started/setup-codesandbox']
+        children: [
+          '/getting-started/',
+          '/getting-started/setup-local',
+          '/getting-started/setup-codesandbox',
+          '/getting-started/personal-portfolio'
+        ]
       },
       {
         title: 'HTML',
