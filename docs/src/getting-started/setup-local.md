@@ -8,10 +8,10 @@ For this workshop, we will need to install these applications:
 
 1. [Visual Studio Code](https://code.visualstudio.com/)
 2. A Web browser (we probably already have at least one of these)
-    - [Google Chrome](https://www.google.com/chrome/)
-    - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
-    - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
-    - As a Web developer, it is important that we test our Web applications on multiple browsers to ensure that they work for the most number of users regardless of the browser that they use
+   - [Google Chrome](https://www.google.com/chrome/)
+   - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+   - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+   - As a Web developer, it is important that we test our Web applications on multiple browsers to ensure that they work for the most number of users regardless of the browser that they use
 
 ## Create project folder
 

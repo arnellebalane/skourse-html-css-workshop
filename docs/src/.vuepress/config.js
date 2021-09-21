@@ -1,5 +1,5 @@
 const path = require('path');
-const { description } = require('../../package')
+const { description } = require('../../package');
 
 module.exports = {
   /**
@@ -40,26 +40,24 @@ module.exports = {
     lastUpdated: false,
     search: false,
     nav: [],
-    sidebar: {
-      '/getting-started/': [
-        {
-          title: 'Getting started',
-          collapsable: false,
-          children: [
-            '',
-            'setup-local',
-            'setup-codesandbox'
-          ]
-        }
-      ],
-    }
+    sidebar: [
+      {
+        title: 'Getting started',
+        path: '/getting-started/',
+        collapsable: false,
+        children: ['/getting-started/', '/getting-started/setup-local', '/getting-started/setup-codesandbox']
+      },
+      {
+        title: 'HTML',
+        path: '/html/',
+        collapsable: false,
+        children: ['/html/']
+      }
+    ]
   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
-  ]
-}
+  plugins: ['@vuepress/plugin-back-to-top', '@vuepress/plugin-medium-zoom']
+};
