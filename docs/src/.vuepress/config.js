@@ -56,7 +56,7 @@ module.exports = {
         title: 'HTML',
         path: '/html/',
         collapsable: false,
-        children: ['/html/']
+        children: ['/html/', '/html/our-first-page']
       }
     ]
   },
