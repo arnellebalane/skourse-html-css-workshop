@@ -7,7 +7,7 @@ Coding directly on our computer is the recommended way of following along to thi
 For this workshop, we will need to install these applications:
 
 1. [Visual Studio Code](https://code.visualstudio.com/)
-2. A Web browser (we probably already have at least one of these)
+1. A Web browser (we probably already have at least one of these)
    - [Google Chrome](https://www.google.com/chrome/)
    - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
    - [Microsoft Edge](https://www.microsoft.com/en-us/edge)

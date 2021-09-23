@@ -57,6 +57,12 @@ module.exports = {
         path: '/html/',
         collapsable: false,
         children: ['/html/', '/html/our-first-page', '/html/group-related-elements', '/html/summary']
+      },
+      {
+        title: 'CSS',
+        path: '/css/',
+        collapsable: false,
+        children: ['/css/', '/css/basic-styles', '/css/introducing-devtools', '/css/using-custom-fonts']
       }
     ]
   },

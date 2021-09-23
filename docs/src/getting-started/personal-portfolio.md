@@ -11,7 +11,7 @@ At the end of this workshop, not only are we going to have enough skills to buil
 The design for our personal portfolio project is available in Figma. Referencing the design allows us to inspect specific styles for texts, spacing, colors, and others for our Web page.
 
 1. Go to [Figma](https://figma.com/) and login to your account (or register if you don't have one yet)
-2. Visit the [Skourse - HTML & CSS Workshop](https://www.figma.com/community/file/1021339027541178065/Skourse---HTML-%26-CSS-Workshop) community resource
-3. Click on the "Duplicate" button to copy the design into your Figma account
+1. Visit the [Skourse - HTML & CSS Workshop](https://www.figma.com/community/file/1021339027541178065/Skourse---HTML-%26-CSS-Workshop) community resource
+1. Click on the "Duplicate" button to copy the design into your Figma account
    ![Duplicate Figma design](./images/duplicate-figma-design.jpg)
-4. In future steps, we will keep referencing this design to get certain values to style our Web page
+1. In future steps, we will keep referencing this design to get certain values to style our Web page

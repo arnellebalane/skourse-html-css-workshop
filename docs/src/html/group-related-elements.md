@@ -158,6 +158,6 @@ Let's place the "made by" text inside a `<footer>` element.
 </footer>
 ```
 
-## Additional links
+## Additional Links
 
 - [Complete code for this lesson](https://github.com/arnellebalane/skourse-html-css-workshop/blob/02-grouping/index.html)

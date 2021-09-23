@@ -12,10 +12,10 @@ HTML code is composed of different elements that represent different types of co
 
 ![HTML element syntax](./images/html-element.jpg)
 
-- **opening tag**: consists of the name of the element (in this case, `p`), indicates where the element begins.
-- **closing tag**: similar to the opening tag, except with a forward slash `/` before the element name, indicates where the element ends.
-- **content**: the content of this element (in this case, it's just text)
-- **element**: the opening tag, closing tag, and content together comprise the element.
+- **opening tag**: Consists of the name of the element (in this case, `p`), indicates where the element begins.
+- **closing tag**: Similar to the opening tag, except with a forward slash `/` before the element name, indicates where the element ends.
+- **content**: The content of this element (in this case, it's just text).
+- **element**: The opening tag, closing tag, and content together comprise the element.
 
 ### Empty Elements
 
@@ -33,9 +33,9 @@ Attributes may contain additional information that modifies the element's behavi
 
 ![HTML attributes](./images/html-attributes.jpg)
 
-- **attribute**: there should be a space between the element name and the attribute, and between multiple attributes.
-- **attribute name**: followed by an equal sign `=`
-- **attribute value**: wrapped by quotation marks `"`
+- **attribute**: There should be a space between the element name and the attribute, and between multiple attributes.
+- **attribute name**: Followed by an equal sign `=`
+- **attribute value**: Wrapped by quotation marks `"`
 
 There are also several [**boolean attributes**](https://meiert.com/en/blog/boolean-attributes-of-html/) that don't need any value, so only the attribute name is required.
 
@@ -52,7 +52,8 @@ Besides text content, HTML elements can also contain other HTML elements. This i
 
 When nesting elements, it is important that we close the inner elements first. In the example above, notice how the `</em>` closing tag appears the `</p>` closing tag.
 
-## Additional links
+## Additional Links
 
 - [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [HTML Reference](https://htmlreference.io/)

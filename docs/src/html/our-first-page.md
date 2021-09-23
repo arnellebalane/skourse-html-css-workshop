@@ -2,7 +2,7 @@
 
 Now that we know what what HTML is and what HTML code looks like, let's create our first HTML page.
 
-In our code editor, create a new file called `index.html`
+In our code editor, create a new file called `index.html`.
 
 > If using CodeSandbox, this file should already exist when the sandbox was created. Just delete all the contents of this file.
 
