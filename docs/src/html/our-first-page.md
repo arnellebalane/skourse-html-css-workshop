@@ -66,10 +66,10 @@ Identify which are the paragraphs in our HTML page template and mark them up acc
 
 ## View Page Contents
 
-After adding the page contents and marking them up with the appropriate HTML elements, refresh the browser tab to see the results. We can compare our code with the [final code](https://github.com/arnellebalane/skourse-html-css-workshop/blob/01-content/index.html) for this section.
+After adding the page contents and marking them up with the appropriate HTML elements, refresh the browser tab to see the results. We can compare our code with the [final code](https://github.com/arnellebalane/skourse-html-css-workshop/blob/01-content/index.html) for this lesson.
 
 ![HTML page contents preview](./images/first-page-contents.png)
 
 It still doesn't look very nice for now, but the most important thing is already there - **content and information that tells the page's visitors about us**.
 
-In the next sections we will work on making it look more presentable.
+In the next lessons we will work on making it look more presentable.
