@@ -1,4 +1,4 @@
-# Group Related Elements
+# Grouping Related Elements
 
 So far, all the headings and paragraphs in our HTML page are all directly inside the `<body>` element. This is fine, although if we're going to style them later, it will be helpful if we group related elements together.
 

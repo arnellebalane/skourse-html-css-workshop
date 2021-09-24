@@ -31,6 +31,18 @@ p {
 
 As we write CSS, we'll find that some properties and values are easy to learn and remember, whereas others we will need to look up a lot. That's completely normal.
 
+The styles in the example above will be applied to all `<h1>` and `<p>` elements on our page. If we want to style only the `<h1>` elements that are inside a `<div>` element, we do that like this:
+
+```css
+div h1 {
+  color: red;
+}
+```
+
+We start with the selector for the parent element (`div`), followed by a space, then the selector for the element that we want to style (`h1`). With this, other `<h1>` elements that are not inside a `<div>` will not be affected by this CSS rule.
+
+In most Web pages, elements like `<h1>` or `<p>` can be used multiple times in different contexts that require them to be styled differently, so knowing how to select only specific instances of `<h1>` or `<p>` is very helpful. Later, we will see other ways to do achieve this.
+
 ## Additional Links
 
 - [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)

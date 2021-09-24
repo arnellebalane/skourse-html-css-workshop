@@ -1,4 +1,4 @@
-# Using our Local Environment
+# Using Our Local Environment
 
 Coding directly on our computer is the recommended way of following along to this workshop. Setting up our local environment now also prepares us for future Web development projects that we will work on.
 
