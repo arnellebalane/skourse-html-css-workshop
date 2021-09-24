@@ -85,6 +85,12 @@ module.exports = {
         path: '/links/',
         collapsable: false,
         children: ['/links/', '/links/other-link-types']
+      },
+      {
+        title: 'Images',
+        path: '/images/',
+        collapsable: false,
+        children: ['/images/', '/images/using-background-images']
       }
     ]
   },
