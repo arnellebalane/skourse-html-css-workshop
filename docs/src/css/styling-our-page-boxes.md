@@ -2,7 +2,7 @@
 
 Equipped with our recent understanding of the CSS box model, let's now start styling the different elements on our page by modifying the different areas of their boxes.
 
-We will do it by group of content, and we will refer to the **02 - Box Model** page on our [design reference](https://www.figma.com/community/file/1021339027541178065/Skourse---HTML-%26-CSS-Workshop) to determine what values for the paddings, margins, etc. to use.
+We will do it by group of content, and we will refer to the **02 - Box Model** page on our [design reference](/getting-started/personal-portfolio#design-reference) to determine what values for the paddings, margins, etc. to use.
 
 ## Intro Section
 

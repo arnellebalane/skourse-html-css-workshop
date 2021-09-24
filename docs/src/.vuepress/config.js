@@ -78,7 +78,7 @@ module.exports = {
         title: 'CSS Classes',
         path: '/css-classes/',
         collapsable: false,
-        children: ['/css-classes/']
+        children: ['/css-classes/', '/css-classes/migrating-to-classes', '/css-classes/other-selector-types']
       }
     ]
   },
