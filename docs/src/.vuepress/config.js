@@ -69,7 +69,9 @@ module.exports = {
           '/css/using-custom-fonts',
           '/css/the-box-model',
           '/css/styling-our-page-boxes',
-          '/css/block-and-inline-elements'
+          '/css/block-and-inline-elements',
+          '/css/how-css-works',
+          '/css/applying-css-to-html'
         ]
       }
     ]

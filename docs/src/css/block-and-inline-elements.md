@@ -153,6 +153,8 @@ We will use this on our page in a later lesson.
 
 ## Additional Links
 
+- [Complete code for HTML file](https://github.com/arnellebalane/skourse-html-css-workshop/blob/05-block-inline/index.html)
+- [Complete code for CSS file](https://github.com/arnellebalane/skourse-html-css-workshop/blob/05-block-inline/index.css)
 - [Block-level elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
 - [Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
 - [Block and Inline Elements](http://web.simmons.edu/~grovesd/comm244/notes/week4/block-inline)
