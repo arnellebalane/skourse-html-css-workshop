@@ -4,7 +4,7 @@ So far, all the headings and paragraphs in our HTML page are all directly inside
 
 Let's group the elements that contain related content inside the [`<div>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div) element.
 
-#### About me contents
+### About me contents
 
 ```html
 <div>
@@ -25,7 +25,7 @@ Let's group the elements that contain related content inside the [`<div>`](https
 </div>
 ```
 
-#### Work experience contents
+### Work experience contents
 
 In addition to grouping the entire work experience section inside a `<div>`, let's also group each individual work experience content inside a `<div>`.
 
@@ -56,7 +56,7 @@ In addition to grouping the entire work experience section inside a `<div>`, let
 </div>
 ```
 
-#### Get in touch contents
+### Get in touch contents
 
 ```html
 <div>
@@ -67,7 +67,7 @@ In addition to grouping the entire work experience section inside a `<div>`, let
 </div>
 ```
 
-#### Remaining contents
+### Remaining contents
 
 Although they only contain one element, let's also place the intro text and the "made by" text inside their own `<div>`.
 
@@ -91,7 +91,7 @@ The `<div>` element is a generic container for content. It has no effect on the 
 
 Just like with text where we can mark them as headings or paragraphs, we can also group elements in a more meaningful way using elements that have inherint meanings. We call these elements that give meaning to the content the represent [**semantic elements**](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html). The headings and paragraph elements that we learned previously are examples of such elements.
 
-#### `<section>` element
+### `<section>` element
 
 One semantic element that we can use for grouping content is the [`<section>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) element. They represent a standalone section of a document, and should have a heading inside it.
 
@@ -122,7 +122,7 @@ Let's place the **About me**, **Work experience**, and **Get in touch** sections
 </section>
 ```
 
-#### `<article>` element
+### `<article>` element
 
 Another semantic element for grouping content is the [`<article>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) element, which we will use to contain each individual work experience.
 
@@ -146,7 +146,7 @@ Another semantic element for grouping content is the [`<article>`](https://devel
 </article>
 ```
 
-#### `<footer>` element
+### `<footer>` element
 
 One more semantic element for grouping content that we will use in our page is the [`<footer>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer) element, which is typically used to contain information about the author, copyright data, or links to related pages.
 

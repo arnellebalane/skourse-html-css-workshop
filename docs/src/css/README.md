@@ -41,7 +41,7 @@ div h1 {
 
 We start with the selector for the parent element (`div`), followed by a space, then the selector for the element that we want to style (`h1`). With this, other `<h1>` elements that are not inside a `<div>` will not be affected by this CSS rule.
 
-In most Web pages, elements like `<h1>` or `<p>` can be used multiple times in different contexts that require them to be styled differently, so knowing how to select only specific instances of `<h1>` or `<p>` is very helpful. Later, we will see other ways to do achieve this.
+In most Web pages, elements like `<h1>` or `<p>` can be used multiple times in different contexts that require them to be styled differently, so knowing how to select only specific instances of `<h1>` or `<p>` is very helpful. Later, we will see other ways to achieve this.
 
 ## Additional Links
 
