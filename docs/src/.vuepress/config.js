@@ -79,6 +79,12 @@ module.exports = {
         path: '/css-classes/',
         collapsable: false,
         children: ['/css-classes/', '/css-classes/migrating-to-classes', '/css-classes/other-selector-types']
+      },
+      {
+        title: 'Links',
+        path: '/links/',
+        collapsable: false,
+        children: ['/links/', '/links/other-link-types']
       }
     ]
   },
