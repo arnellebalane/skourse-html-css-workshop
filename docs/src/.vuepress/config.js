@@ -73,6 +73,12 @@ module.exports = {
           '/css/how-css-works',
           '/css/applying-css-to-html'
         ]
+      },
+      {
+        title: 'CSS Classes',
+        path: '/css-classes/',
+        collapsable: false,
+        children: ['/css-classes/']
       }
     ]
   },

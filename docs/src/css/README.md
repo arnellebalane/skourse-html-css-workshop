@@ -43,8 +43,20 @@ We start with the selector for the parent element (`div`), followed by a space, 
 
 In most Web pages, elements like `<h1>` or `<p>` can be used multiple times in different contexts that require them to be styled differently, so knowing how to select only specific instances of `<h1>` or `<p>` is very helpful. Later, we will see other ways to achieve this.
 
+## Values and Units
+
+Different CSS properties accept different types of values, and some of these values may need to specify a CSS unit. There are different types of values available in CSS, some of the most common ones are:
+
+- [`length`](https://developer.mozilla.org/en-US/docs/Web/CSS/length): Represents a distance value, used in properties that set sizes of the elements (e.g. `width`) or its contents (e.g. `font-size`)
+  - Can be defined in different available units, althought he most common one is the `px` unit which is the number of pixels
+- [`color`](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value): Represents a color value, used in properties that set color charactertistics
+  - Supports different color formats - keyboards (e.g. `black`), hexadecimal (e.g. `#000000`), RGB (e.g. `rgb(0, 0, 0)`), and many others
+
+There are [many more values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) that are supported by CSS, but for this workshop the ones above are all that we need.
+
 ## Additional Links
 
 - [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 - [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
 - [CSS Reference](https://cssreference.io/)
+- [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)

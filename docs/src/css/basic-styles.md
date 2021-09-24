@@ -39,7 +39,7 @@ These rules sets some typographic properties for the contents of our page.
 
 Setting these properties on the `<body>` elements provides default values throughout the page. These can be overriden by individual elements that want to sent different values (like what we're doing for the `<h1>` and `<h2>` elements).
 
-## Load The Stylesheet
+## Load the Stylesheet
 
 If we refresh our page now, we won't see the custom styles that we just wrote. That's because our HTML page doesn't know yet that we have a CSS file. We need to load it first into our HTML in order for it to be applied to the page.
 
