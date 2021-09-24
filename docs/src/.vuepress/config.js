@@ -67,7 +67,8 @@ module.exports = {
           '/css/basic-styles',
           '/css/introducing-devtools',
           '/css/using-custom-fonts',
-          '/css/the-box-model'
+          '/css/the-box-model',
+          '/css/styling-our-page-boxes'
         ]
       }
     ]

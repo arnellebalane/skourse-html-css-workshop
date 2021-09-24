@@ -23,6 +23,11 @@ h2 {
   line-height: 42px;
   color: #4b5563;
 }
+
+h3 {
+  font-size: 18px;
+  line-height: 28px;
+}
 ```
 
 These rules sets some typographic properties for the contents of our page.
