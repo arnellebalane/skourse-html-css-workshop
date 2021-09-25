@@ -15,7 +15,7 @@ For this workshop, we will need to install these applications:
 
 ## Create Project Folder
 
-Let's then create a folder where we will place all our code for this workshop. We can create this folder anywhere in we want. We can also name the folder whatever we want. For uniformity, let's just say we created it in our desktop folder and named it `html-css-workshop`.
+Let's then create a folder where we will place all our code for this workshop. We can create this folder anywhere we want. We can also name the folder whatever we want. For uniformity, let's just say we created it in our desktop folder and named it `html-css-workshop`.
 
 After creating the project folder, open Visual Studio Code and drag and drop our project folder into the code editor. The Visual Studio Code window should look something like this:
 

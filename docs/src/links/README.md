@@ -16,7 +16,7 @@ Clicking on this link will redirect the current tab to the new page specified in
 <a href="https://www.skourse.com/" target="_blank">Visit Skourse website in new tab</a>
 ```
 
-## Adding Links to Our Page
+## Adding Links in Our Page
 
 Let's now edit `index.html` to turn any text we want into a link.
 

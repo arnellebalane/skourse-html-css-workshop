@@ -1,8 +1,8 @@
 # Using CodeSandbox
 
-If you don't want to install any applications into your computer for now, you can still code along the workshop through CodeSandbox.
+If you don't want to install any applications on your computer for now, you can still code along the workshop through CodeSandbox.
 
-[CodeSandbox](https://codesandbox.io/) is an a Web application that allows us write code directly on our browser without requiring us to install anything on our computer.
+[CodeSandbox](https://codesandbox.io/) is a Web application that allows us write code directly on our browser without requiring us to install anything on our computer.
 
 To get started with CodeSandbox, go to [codesandbox.io](https://codesandbox.io/) and create an account for free. You may sign in using your Google or GitHub account.
 

@@ -91,6 +91,12 @@ module.exports = {
         path: '/images/',
         collapsable: false,
         children: ['/images/', '/images/using-background-images']
+      },
+      {
+        title: 'Layout',
+        path: '/layout/',
+        collapsable: false,
+        children: ['/layout/', '/layout/add-site-header']
       }
     ]
   },

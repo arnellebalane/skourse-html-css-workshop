@@ -89,7 +89,7 @@ Although they only contain one element, let's also place the intro text and the 
 
 The `<div>` element is a generic container for content. It has no effect on the content or layout until styled in some way, and does not inherently mean anything.
 
-Just like with text where we can mark them as headings or paragraphs, we can also group elements in a more meaningful way using elements that have inherint meanings. We call these elements that give meaning to the content the represent [**semantic elements**](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html). The headings and paragraph elements that we learned previously are examples of such elements.
+Just like with text where we can mark them as headings or paragraphs, we can also group elements in a more meaningful way using elements that have inherent meanings. We call these elements that give meaning to the content the represent [**semantic elements**](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html). The headings and paragraph elements that we learned previously are examples of such elements.
 
 ### `<section>` element
 

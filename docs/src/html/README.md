@@ -50,7 +50,7 @@ Besides text content, HTML elements can also contain other HTML elements. This i
 - It allows us to apply multiple HTML tags to a single piece of content, for example to italize some part of the text contents of a paragraph (using `<em>` inside `<p>`)
 - It allows us to style a group of elements at once.
 
-When nesting elements, it is important that we close the inner elements first. In the example above, notice how the `</em>` closing tag appears the `</p>` closing tag.
+When nesting elements, it is important that we close the inner elements first. In the example above, notice how the `</em>` closing tag appears before the `</p>` closing tag.
 
 ## Additional Links
 
