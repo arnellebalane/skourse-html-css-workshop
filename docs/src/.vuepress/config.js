@@ -103,6 +103,11 @@ module.exports = {
         path: '/position/',
         collapsable: false,
         children: ['/position/', '/position/sticky-position', '/position/absolute-relative-position']
+      },
+      {
+        title: 'Pseudo-Classes',
+        path: '/pseudo-classes/',
+        collapsable: false
       }
     ]
   },
