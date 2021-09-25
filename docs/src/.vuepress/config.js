@@ -113,6 +113,11 @@ module.exports = {
         title: 'Transitions',
         path: '/transitions/',
         collapsable: false
+      },
+      {
+        title: 'Animations',
+        path: '/animations/',
+        collapsable: false
       }
     ]
   },
