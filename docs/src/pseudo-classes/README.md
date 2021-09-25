@@ -22,6 +22,11 @@ We can use pseudo-classes to apply a different style when the user hovers or foc
   color: #f59e0b;
 }
 
+.banner-attribution a:hover,
+.banner-attribution a:focus {
+  color: #f59e0b;
+}
+
 .contact-section .email-button:hover,
 .contact-section .email-button:focus {
   color: #ffffff;
@@ -58,4 +63,5 @@ In our page we have some lists of similar items, where the last item's bottom ma
 
 ## Additional Links
 
+- [Complete code for CSS file](https://github.com/arnellebalane/skourse-html-css-workshop/blob/11-pseudo-classes/index.css)
 - [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)

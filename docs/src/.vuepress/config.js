@@ -108,6 +108,11 @@ module.exports = {
         title: 'Pseudo-Classes',
         path: '/pseudo-classes/',
         collapsable: false
+      },
+      {
+        title: 'Transitions',
+        path: '/transitions/',
+        collapsable: false
       }
     ]
   },

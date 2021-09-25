@@ -10,6 +10,12 @@ In our page's **Get in touch** section there is an element that says "Send me an
 <a href="mailto:arnellebalane@gmail.com" class="email-button">Send me an email</a>
 ```
 
+```css
+.email-button {
+  text-decoration: none;
+}
+```
+
 ## Additional Links
 
 - [Complete code for HTML file](https://github.com/arnellebalane/skourse-html-css-workshop/blob/07-links/index.html)
