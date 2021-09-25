@@ -123,6 +123,11 @@ module.exports = {
         title: 'Favicons',
         path: '/favicons/',
         collapsable: false
+      },
+      {
+        title: 'Deploying to Netlify',
+        path: '/deploy/',
+        collapsable: false
       }
     ]
   },
