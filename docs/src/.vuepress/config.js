@@ -128,6 +128,11 @@ module.exports = {
         title: 'Deploying to Netlify',
         path: '/deploy/',
         collapsable: false
+      },
+      {
+        title: 'Sharing',
+        path: '/sharing/',
+        collapsable: false
       }
     ]
   },
