@@ -9,7 +9,12 @@ It accepts a [`src`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i
 It also accepts the `width` and `height` attributes to specify the dimensions of the image when rendered on the page.
 
 ```html
-<img src="images/avatar.jpg" alt="A photo of myself" width="100" height="100" />
+<img 
+     src="https://res.cloudinary.com/arnellebalane/image/upload/v1632525393/html-css-workshop/avatar_sxu43r.jpg" 
+     alt="A photo of myself" 
+     width="100" 
+     height="100" 
+/>
 ```
 
 ## Adding Images to Our Page
