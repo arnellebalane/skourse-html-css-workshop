@@ -97,6 +97,12 @@ module.exports = {
         path: '/layout/',
         collapsable: false,
         children: ['/layout/', '/layout/add-site-header']
+      },
+      {
+        title: 'Position',
+        path: '/position/',
+        collapsable: false,
+        children: ['/position/', '/position/sticky-position', '/position/absolute-relative-position']
       }
     ]
   },

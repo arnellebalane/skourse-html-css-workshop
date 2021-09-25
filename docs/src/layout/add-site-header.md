@@ -114,6 +114,10 @@ The page also scrolls in a way that the top edge of the section is aligned with 
   margin: 0 auto;
 }
 
+.intro-section {
+  margin-bottom: 0;
+}
+
 .contact-section {
   margin-bottom: 150px;
 }
