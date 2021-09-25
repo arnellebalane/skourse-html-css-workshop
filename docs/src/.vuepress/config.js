@@ -118,6 +118,11 @@ module.exports = {
         title: 'Animations',
         path: '/animations/',
         collapsable: false
+      },
+      {
+        title: 'Favicons',
+        path: '/favicons/',
+        collapsable: false
       }
     ]
   },
